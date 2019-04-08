@@ -21,6 +21,9 @@ function johnLennonFacts (facts) {
 }
 
 function iLoveTheBeatles (num) {
-  var arr = []
-  do
+  var arr = [];
+  do {
+    
+  }
+  while (  );
 }
