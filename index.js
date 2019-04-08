@@ -1,2 +1,2 @@
 // add solution here
-function theBeatlesPlay (mu)
+function theBeatlesPlay (musicians, )
